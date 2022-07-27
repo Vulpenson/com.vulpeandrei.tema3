@@ -1,0 +1,1 @@
+UPDATE orders SET comments = "The shippment has been postponed indefinately" WHERE id = 3;

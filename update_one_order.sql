@@ -1,0 +1,1 @@
+UPDATE orders SET status = "shipped", shipped_date = "2021-07-27" WHERE id = 1;
